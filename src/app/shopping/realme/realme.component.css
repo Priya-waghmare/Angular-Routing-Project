@@ -1,0 +1,36 @@
+/* .main
+{
+    height: 100%;
+    background-color: rgb(10, 158, 109);
+} */
+.head
+{
+    height: 120px;
+    /* color: darkred; */
+    text-align: center;
+    padding-top: 20px;
+}
+tr,th, td
+{
+    text-align: center;
+    padding: 15px;
+    font-style: bold;
+    font-size: large;
+    color: rgb(8, 7, 8);
+}
+table
+{
+    border: 2px black solid;
+}
+.tab
+{
+    align-items: center;
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+/* .shp
+{
+    color: rgb(225, 164, 66);
+    text-align: center;
+    height: 120px;
+} */

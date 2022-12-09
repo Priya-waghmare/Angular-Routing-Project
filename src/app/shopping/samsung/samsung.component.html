@@ -1,0 +1,26 @@
+<div class="main">
+    <div class="head">
+        <!-- <h1 class="shp"> WELCOME TO MOBILE HUB </h1> -->
+        <h3>SAMSUNG PRODUCTS</h3>
+    </div>
+    <div class="cell">
+        <table border="2px" width="70%" class="tab">
+            <tr>
+                <th>Prod_id</th>
+                <th>Prod_Name</th>
+                <th>Price</th>
+                <th>Color</th>
+                <th>Image</th>
+            </tr>
+            <tr *ngFor="let data of sp">
+                <td>{{data.s_id}}</td>
+                <td>{{data.s_name}}</td>
+                <td>{{data.s_price}}</td>
+                <td>{{data.s_color}}</td>
+                <td> <img [src]='data.img' width="100px" height="100px"> </td>
+
+            </tr>
+        </table>
+    </div>
+
+<div>

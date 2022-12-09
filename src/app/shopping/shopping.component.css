@@ -1,0 +1,53 @@
+/* .main
+{
+    background-image: url(src/assets/bgimage/shop);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+
+} */
+ a
+{
+    text-decoration: none;
+    font-size: medium;
+    color: rgb(7, 8, 8);
+    
+}
+a:hover
+{
+    text-decoration: none;
+}
+.b1
+{
+    border-radius: 55px;
+    height: 42px;
+    width: 150px;
+    border: black solid 2.5px; 
+    /* background-color: rgb(16, 68, 68); */
+    color: white;
+    /* padding: 10px; */
+}
+.head
+{
+    height: 120px;
+    align-items: center;
+    /* background-color: rgb(132, 194, 173); */
+    
+}
+ .shp
+{
+    /* color: rgb(225, 164, 66); */
+    text-align: center;
+    /* height: 120px; */
+    color: rgb(186, 229, 12); 
+    padding-top: 20px;
+}
+.cell1
+{
+    /* height: 500px; */
+    align-items: center;
+    padding-left: 30%;
+    /* padding: 10%; */
+    
+} 

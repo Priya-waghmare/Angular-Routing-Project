@@ -1,0 +1,17 @@
+.heading
+{
+    text-align: center;
+    height: 100%;
+
+}
+h1
+{
+    /* color: rgb(186, 229, 12); */
+    color: rgb(225, 164, 66);
+   
+}
+a:hover
+{
+    text-decoration: none;
+}
+
